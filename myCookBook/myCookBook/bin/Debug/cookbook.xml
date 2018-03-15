@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CookBook>
+  <Recipe>
+    <Name>Cauliflower Fried Rice</Name>
+    <Ingredients>
+      <Ingredient>
+        <IngredientName>Cauliflower (riced)</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>cups</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>peas</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>carrots (shredded)</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>garlic (minced)</IngredientName>
+        <IngredientAmount>4</IngredientAmount>
+        <IngredientUnit>cloves</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Onion (diced)</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Olive oil</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>tbsp</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Eggs </IngredientName>
+        <IngredientAmount>2</IngredientAmount>
+        <IngredientUnit>whole</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Coconut Aminos (or soy sauce)</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>tbsp</IngredientUnit>
+      </Ingredient>
+    </Ingredients>
+    <Breakfast>False</Breakfast>
+    <Lunch>True</Lunch>
+    <Dinner>True</Dinner>
+    <Gameday>False</Gameday>
+    <Comfort>False</Comfort>
+    <Sweet>False</Sweet>
+    <Slowcooker>False</Slowcooker>
+    <Paleo>False</Paleo>
+    <Vegan>False</Vegan>
+    <Vegetarian>True</Vegetarian>
+    <Salad>False</Salad>
+    <Soup>False</Soup>
+    <Whole30>True</Whole30>
+    <Appetizer>False</Appetizer>
+    <Glutenfree>True</Glutenfree>
+    <RecipeID>0</RecipeID>
+    <ImagePath>Images/Cauliflower Fried Rice.jpg</ImagePath>
+    <Instructions>1. In a large pan or wok, cook down the onions and garlic with the olive oil until the onions begin to become transparent. (around 2 minutes)
+2. Add in the peas and carrots and cook until carrots begin to soften.
+3. Beat the eggs in a small bowl, and add them to the pan. cook until there is no more liquid consistency.
+4. Add in the coconut aminos and the cauliflower "rice." I usually cook it until the cauliflower gets crispy-ish but how long to cook is completely up to you.
+5. enjoy!</Instructions>
+  </Recipe>
+  <Recipe>
+    <Name>Chicken Fajita Bake</Name>
+    <Ingredients>
+      <Ingredient>
+        <IngredientName>Chicken Breasts</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>large</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Bell Peppers</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>red, yellow, orange</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Mexican blend cheese</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>fajita seasoning</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>tbsp</IngredientUnit>
+      </Ingredient>
+    </Ingredients>
+    <Breakfast>False</Breakfast>
+    <Lunch>False</Lunch>
+    <Dinner>True</Dinner>
+    <Gameday>False</Gameday>
+    <Comfort>False</Comfort>
+    <Sweet>False</Sweet>
+    <Slowcooker>False</Slowcooker>
+    <Paleo>False</Paleo>
+    <Vegan>False</Vegan>
+    <Vegetarian>False</Vegetarian>
+    <Salad>False</Salad>
+    <Soup>False</Soup>
+    <Whole30>False</Whole30>
+    <Appetizer>False</Appetizer>
+    <Glutenfree>False</Glutenfree>
+    <RecipeID>0</RecipeID>
+    <ImagePath>Images/Chicken Fajita Bake.jpg</ImagePath>
+    <Instructions>1. preheat the oven to 400 F.
+2. grease a 9x13 baking pan, and place chicken breasts in it.
+3. evenly coat each side of the chicken breasts with the fajita seasoning.
+4. slice the bell peppers into thin strips and spread evenly on top of the chicken breasts.
+                    *For info on how to make your own Fajita Seasoning, consult                       
+                      the cookbook
+5. top the chicken and peppers with cheese and bake, uncovered for 20-30 minutes. exact time will vary based on the thickness of the breasts.
+6. serve with salsa and/or sour cream
+7. enjoy!</Instructions>
+  </Recipe>
+  <Recipe>
+    <Name>Dragon Bowl</Name>
+    <Ingredients>
+      <Ingredient>
+        <IngredientName>Pitaya Plus dragonfruit smoothie pack</IngredientName>
+        <IngredientAmount>1</IngredientAmount>
+        <IngredientUnit>pack</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Banana (diced)</IngredientName>
+        <IngredientAmount>1</IngredientAmount>
+        <IngredientUnit>whole</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Strawberries</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Coconut water (or milk)</IngredientName>
+        <IngredientAmount>1</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Granola of choice (optional)</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>cup</IngredientUnit>
+      </Ingredient>
+    </Ingredients>
+    <Breakfast>True</Breakfast>
+    <Lunch>False</Lunch>
+    <Dinner>False</Dinner>
+    <Gameday>False</Gameday>
+    <Comfort>False</Comfort>
+    <Sweet>True</Sweet>
+    <Slowcooker>False</Slowcooker>
+    <Paleo>False</Paleo>
+    <Vegan>False</Vegan>
+    <Vegetarian>True</Vegetarian>
+    <Salad>False</Salad>
+    <Soup>False</Soup>
+    <Whole30>False</Whole30>
+    <Appetizer>False</Appetizer>
+    <Glutenfree>False</Glutenfree>
+    <RecipeID>0</RecipeID>
+    <ImagePath>Images/Dragon Bowl.jpg</ImagePath>
+    <Instructions>1. Run the frozen smoothie pack under warm water for about 20 seconds to soften it up a bit.
+2. place the smoothie pack in a blender, along with bananas and strawberries. 
+3. add the coconut water or milk and blend until smooth.
+4. top with your favorite granola and a drizzle of honey and enjoy!
+
+NOTE: I use Pitaya Plus dragonfruit smoothie packs, which can be found (most likely) at your nearest whole foods. </Instructions>
+  </Recipe>
+  <Recipe>
+    <Name>Whole30 Gravy</Name>
+    <Ingredients>
+      <Ingredient>
+        <IngredientName>Fat of choice (grease from sausage, Ghee, or olive oil)</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>tbsp</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Tapioca powder</IngredientName>
+        <IngredientAmount>3</IngredientAmount>
+        <IngredientUnit>tbsp</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Almond or cashew milk</IngredientName>
+        <IngredientAmount>2</IngredientAmount>
+        <IngredientUnit>cups</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>salt &amp; pepper</IngredientName>
+        <IngredientAmount>1/2</IngredientAmount>
+        <IngredientUnit>tsp</IngredientUnit>
+      </Ingredient>
+      <Ingredient>
+        <IngredientName>Whole30 approved sausage</IngredientName>
+        <IngredientAmount>1</IngredientAmount>
+        <IngredientUnit>lb</IngredientUnit>
+      </Ingredient>
+    </Ingredients>
+    <Breakfast>True</Breakfast>
+    <Lunch>False</Lunch>
+    <Dinner>False</Dinner>
+    <Gameday>False</Gameday>
+    <Comfort>True</Comfort>
+    <Sweet>False</Sweet>
+    <Slowcooker>False</Slowcooker>
+    <Paleo>False</Paleo>
+    <Vegan>False</Vegan>
+    <Vegetarian>False</Vegetarian>
+    <Salad>False</Salad>
+    <Soup>False</Soup>
+    <Whole30>True</Whole30>
+    <Appetizer>False</Appetizer>
+    <Glutenfree>False</Glutenfree>
+    <RecipeID>0</RecipeID>
+    <ImagePath>Images/Whole30 Gravy.jpg</ImagePath>
+    <Instructions>1. in a large sauce pan, brown the sausage.
+2. add your fat of choice. (if you think there is already around 3 tbsp of fat in the pan, no need to add more)
+3. stir in the tapioca flour until it evenly coats all the pieces of sausage in the pan.
+4. add the almond milk and bring to a simmer, stirring occasionally. wait until sauce is thick. It is always better to add the milk bit by bit so your gravy is not too runny. 
+5. serve over whole30 hashbrowns and enjoy! a healthier alternative to gravy.
+
+NOTE: For this recipe, the fat i use is Ghee (Clarified butter) which can be found at most local grocery stores.</Instructions>
+  </Recipe>
+</CookBook>
